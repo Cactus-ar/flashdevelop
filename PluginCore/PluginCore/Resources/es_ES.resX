@@ -242,4 +242,99 @@
   <data name="FlashDevelop.Description.FoldPreprocessor" xml:space="preserve">
     <value>Contraer las directivas del preprocesador.</value>
   </data>
+  <data name="FlashDevelop.Description.HighlightGuide" xml:space="preserve">
+    <value>Desactiva el detacado para el bloque de código actual</value>
+  </data>
+  <data name="FlashDevelop.Description.HoverDelay" xml:space="preserve">
+    <value>Retardo al mostrar tips</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDevelop.Description.IndentSize" xml:space="preserve">
+    <value>Tamaño de los espacios al aplicar sangrías.</value>
+  </data>
+  <data name="FlashDevelop.Description.IndentView" xml:space="preserve">
+    <value>Comportamiento de la Sangría</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDevelop.Description.InsertionTriggers" xml:space="preserve">
+    <value>Establezca que caracteres seran insertados por la función autocompletar. Tab e Intro deben escribirse con métodos de escape (es decir  \t \n).</value>
+  </data>
+  <data name="FlashDevelop.Description.KeepIndentTabs" xml:space="preserve">
+    <value>Mantener los espacios al final tabulados</value>
+  </data>
+  <data name="FlashDevelop.Description.LatestCommand" xml:space="preserve">
+    <value>Versión del último comando de inicio de ejecución.</value>
+  </data>
+  <data name="FlashDevelop.Description.LatestDialogPath" xml:space="preserve">
+    <value>Ultima ruta de acceso activa.</value>
+  </data>
+  <data name="FlashDevelop.Description.LineCommentsAfterIndent" xml:space="preserve">
+    <value>Insertar comentario luego de una sangría.</value>
+  </data>
+  <data name="FlashDevelop.Description.LocaleVersion" xml:space="preserve">
+    <value>Definir la variable locale del programa. Requiere reiniciar.</value>
+  </data>
+  <data name="FlashDevelop.Description.MoveCursorAfterComment" xml:space="preserve">
+    <value>Mueve el cursor al final del comentario.</value>
+  </data>
+  <data name="FlashDevelop.Description.PreviousDocuments" xml:space="preserve">
+    <value>Lista de documentos previamente abiertos.</value>
+  </data>
+  <data name="FlashDevelop.Description.PrintMarginColumn" xml:space="preserve">
+    <value>Muestra el margen de impresión a la derecha donde se debe mantener el texto.</value>
+  </data>
+  <data name="FlashDevelop.Description.RedirectFilesResults" xml:space="preserve">
+    <value>Redirige los archivos encontrados de la búsqueda a Ver Resultados.</value>
+  </data>
+  <data name="FlashDevelop.Description.RenderMode" xml:space="preserve">
+    <value>Especifica si los elementos comunes d ela interfaz serán renderizados. Requiere reinicio.</value>
+  </data>
+  <data name="FlashDevelop.Description.RestoreFileSession" xml:space="preserve">
+    <value>Restaura los archivos abiertos al inicio.</value>
+  </data>
+  <data name="FlashDevelop.Description.RestoreFileStates" xml:space="preserve">
+    <value>Restaura el estado de los archivos al inicio.</value>
+  </data>
+  <data name="FlashDevelop.Description.SaveUnicodeWithBOM" xml:space="preserve">
+    <value>Utilizar BOM (byte-order mark) para el codificado de nuevos archivos Unicode.</value>
+  </data>
+  <data name="FlashDevelop.Description.ScrollWidth" xml:space="preserve">
+    <value>Ancho predeterminado del documento en píxeles.</value>
+  </data>
+  <data name="FlashDevelop.Description.SequentialTabbing" xml:space="preserve">
+    <value>Comportamiento de la tabulación</value>
+  </data>
+  <data name="FlashDevelop.Description.ShowDetails" xml:space="preserve">
+    <value>Mostrar información detallada por defecto (Puede activarse/desactivarse presionando F1).</value>
+  </data>
+  <data name="FlashDevelop.Description.SmartIndentType" xml:space="preserve">
+    <value>Tipo de tabulado automático.</value>
+  </data>
+  <data name="FlashDevelop.Description.StripTrailingSpaces" xml:space="preserve">
+    <value>Remover los espacios y tabulaciones al final de las líneas.</value>
+  </data>
+  <data name="FlashDevelop.Description.TabIndents" xml:space="preserve">
+    <value>Tabulación de código con la tecla TAB.</value>
+  </data>
+  <data name="FlashDevelop.Description.TabWidth" xml:space="preserve">
+    <value>Ancho del tabulado en caracteres.</value>
+  </data>
+  <data name="FlashDevelop.Description.UseFolding" xml:space="preserve">
+    <value>Colapsar el código en el documento.</value>
+  </data>
+  <data name="FlashDevelop.Description.UseListViewGrouping" xml:space="preserve">
+    <value>Agrupar items en los controles ListView.</value>
+  </data>
+  <data name="FlashDevelop.Description.UseSystemColors" xml:space="preserve">
+    <value>Forzar que FlashDevelop sólo use los colores utilizados por el sistema.</value>
+  </data>
+  <data name="FlashDevelop.Description.UseTabs" xml:space="preserve">
+    <value>Utilizar tabulados en vez de una serie de espacios.</value>
+  </data>
+  <data name="FlashDevelop.Description.ViewBookmarks" xml:space="preserve">
+    <value>Muestra el margen que contiene símbolos de marcador. Si no se muestran los símbolos, los marcadores se muestran resaltando la línea.</value>
+  </data>
+  <data name="FlashDevelop.Description.ViewEOL" xml:space="preserve">
+    <value>Muestra el final de línea con un carácter.</value>
+  </data>
 </root>
