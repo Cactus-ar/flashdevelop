@@ -337,4 +337,1393 @@
   <data name="FlashDevelop.Description.ViewEOL" xml:space="preserve">
     <value>Muestra el final de línea con un carácter.</value>
   </data>
+  <data name="FlashDevelop.Description.ViewIndentationGuides" xml:space="preserve">
+    <value>Muestra las guias de tabulación.</value>
+  </data>
+  <data name="FlashDevelop.Description.ViewLineNumbers" xml:space="preserve">
+    <value>Muestra los números de línea.</value>
+  </data>
+  <data name="FlashDevelop.Description.ViewModifiedLines" xml:space="preserve">
+    <value>Muestra las modificaciones que no han sido guardadas.</value>
+  </data>
+  <data name="FlashDevelop.Description.ViewStatusBar" xml:space="preserve">
+    <value>Muestra la barra de estado por defecto.</value>
+  </data>
+  <data name="FlashDevelop.Description.ViewToolBar" xml:space="preserve">
+    <value>Muestra la barra de herramientas por defecto</value>
+  </data>
+  <data name="FlashDevelop.Description.ViewWhitespace" xml:space="preserve">
+    <value>Muestra los caracteres en blanco como símbolos.</value>
+  </data>
+  <data name="FlashDevelop.Description.VirtualSpaceMode" xml:space="preserve">
+    <value>Establece el modo de espacio virtual con la selección rectangular.</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDevelop.Description.WindowPosition" xml:space="preserve">
+    <value>Última posición del programa en el estado de ventana normal conocido.</value>
+  </data>
+  <data name="FlashDevelop.Description.WindowSize" xml:space="preserve">
+    <value>Último tamaño conocido del programa en el estado de ventana normal.</value>
+  </data>
+  <data name="FlashDevelop.Description.WindowState" xml:space="preserve">
+    <value>Último estado conocido del programa.</value>
+  </data>
+  <data name="FlashDevelop.Description.WrapList" xml:space="preserve">
+    <value>Usar el teclado para navegar.</value>
+  </data>
+  <data name="FlashDevelop.Description.WrapText" xml:space="preserve">
+    <value>Envolver texto en el editor.</value>
+  </data>
+  <data name="FlashDevelop.Category.Controls" xml:space="preserve">
+    <value>Controles</value>
+  </data>
+  <data name="FlashDevelop.Category.Display" xml:space="preserve">
+    <value>Display</value>
+  </data>
+  <data name="FlashDevelop.Category.Editor" xml:space="preserve">
+    <value>Editor</value>
+  </data>
+  <data name="FlashDevelop.Category.Features" xml:space="preserve">
+    <value>Características</value>
+  </data>
+  <data name="FlashDevelop.Category.Folding" xml:space="preserve">
+    <value>Plegado</value>
+  </data>
+  <data name="FlashDevelop.Category.Formatting" xml:space="preserve">
+    <value>Formato</value>
+  </data>
+  <data name="FlashDevelop.Category.General" xml:space="preserve">
+    <value>General</value>
+  </data>
+  <data name="FlashDevelop.Category.Indenting" xml:space="preserve">
+    <value>Tabulado</value>
+  </data>
+  <data name="FlashDevelop.Category.Locale" xml:space="preserve">
+    <value>Locales</value>
+  </data>
+  <data name="FlashDevelop.Category.Paths" xml:space="preserve">
+    <value>Rutas</value>
+  </data>
+  <data name="FlashDevelop.Category.State" xml:space="preserve">
+    <value>Estado</value>
+  </data>
+  <data name="FlashDevelop.Group.Arguments" xml:space="preserve">
+    <value>Argumentos</value>
+  </data>
+  <data name="FlashDevelop.Group.Main" xml:space="preserve">
+    <value>Principal</value>
+  </data>
+  <data name="FlashDevelop.Group.Other" xml:space="preserve">
+    <value>Otros</value>
+  </data>
+  <data name="FlashDevelop.Group.Plugins" xml:space="preserve">
+    <value>Complementos.</value>
+  </data>
+  <data name="FlashDevelop.Info.AppDescription" xml:space="preserve">
+    <value>La aplicación principal y el núcleo de los complementos compartidos.</value>
+  </data>
+  <data name="FlashDevelop.Info.AreYouSureToExit" xml:space="preserve">
+    <value>Seguro quiere salir de FlashDevelop?</value>
+  </data>
+  <data name="FlashDevelop.Info.AreYouSureToReload" xml:space="preserve">
+    <value>Desea volver a abrir el achivo? Los cambios se perderán.</value>
+  </data>
+  <data name="FlashDevelop.Info.AreYouSureToReplaceInFiles" xml:space="preserve">
+    <value>Desea aplicar los cambios? Esta acción no se puede deshacer.</value>
+  </data>
+  <data name="FlashDevelop.Info.AreYouSureToRevert" xml:space="preserve">
+    <value>Desea revertir los cambios?</value>
+  </data>
+  <data name="FlashDevelop.Info.Argument" xml:space="preserve">
+    <value>Argumento:</value>
+  </data>
+  <data name="FlashDevelop.Info.ArgumentFilter" xml:space="preserve">
+    <value>FlashDevelop Argumentos (*.fda)</value>
+  </data>
+  <data name="FlashDevelop.Info.ArgumentsTakeEffect" xml:space="preserve">
+    <value>Los argumentos personalizados surtirán efecto tan pronto como se editen con éxito.</value>
+  </data>
+  <data name="FlashDevelop.Info.Background" xml:space="preserve">
+    <value>Fondo:</value>
+  </data>
+  <data name="FlashDevelop.Info.Bold" xml:space="preserve">
+    <value>Negrita</value>
+  </data>
+  <data name="FlashDevelop.Info.BookmarkLine" xml:space="preserve">
+    <value>Marcar línea:</value>
+  </data>
+  <data name="FlashDevelop.Info.CaretFore" xml:space="preserve">
+    <value>Inserción hacia adelante:</value>
+  </data>
+  <data name="FlashDevelop.Info.CaretLineBack" xml:space="preserve">
+    <value>Inserción de línea:</value>
+  </data>
+  <data name="FlashDevelop.Info.CheckingUpdates" xml:space="preserve">
+    <value>Buscando actualizaciones...</value>
+  </data>
+  <data name="FlashDevelop.Info.CodeAndStrings" xml:space="preserve">
+    <value>Código y Cadenas</value>
+  </data>
+  <data name="FlashDevelop.Info.ColoringTagsMissing" xml:space="preserve">
+    <value>El archivo de propiedades del lenguaje probablemente no esté</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDevelop.Info.CommentsOnly" xml:space="preserve">
+    <value>Comentarios solamente</value>
+  </data>
+  <data name="FlashDevelop.Info.CompareError" xml:space="preserve">
+    <value>No es un  ICompletionListItem</value>
+  </data>
+  <data name="FlashDevelop.Info.ConfirmSnippetDelete" xml:space="preserve">
+    <value>Desea borrar este snippet?</value>
+  </data>
+  <data name="FlashDevelop.Info.CouldNotBeRecycled" xml:space="preserve">
+    <value>No podría ser reciclado:</value>
+  </data>
+  <data name="FlashDevelop.Info.CouldNotExecuteScript" xml:space="preserve">
+    <value>El script no se ha podido ejecutar correctamente:</value>
+  </data>
+  <data name="FlashDevelop.Info.CurrentSelection" xml:space="preserve">
+    <value>Selección actual</value>
+  </data>
+  <data name="FlashDevelop.Info.DebugLineBack" xml:space="preserve">
+    <value>Línea de Depuración:</value>
+  </data>
+  <data name="FlashDevelop.Info.DeleteFilesAlso" xml:space="preserve">
+    <value>Desea además borrar el archivo?</value>
+  </data>
+  <data name="FlashDevelop.Info.DescHeader" xml:space="preserve">
+    <value>Descripción</value>
+  </data>
+  <data name="FlashDevelop.Info.Details" xml:space="preserve">
+    <value>Detalles</value>
+  </data>
+  <data name="FlashDevelop.Info.Disable" xml:space="preserve">
+    <value>Desactivado</value>
+  </data>
+  <data name="FlashDevelop.Info.DisabledLineBack" xml:space="preserve">
+    <value>Línea desactivada:</value>
+  </data>
+  <data name="FlashDevelop.Info.EditorStyle" xml:space="preserve">
+    <value>Estilo del Editor</value>
+  </data>
+  <data name="FlashDevelop.Info.ErrorLineBack" xml:space="preserve">
+    <value>Error en línea:</value>
+  </data>
+  <data name="FlashDevelop.Info.ErrorOccurred" xml:space="preserve">
+    <value>Ha ocurrido un error en FlashDevelop. Detalles del error:</value>
+  </data>
+  <data name="FlashDevelop.Info.ErrorsInThisSession" xml:space="preserve">
+    <value>Errores en esta sesión:</value>
+  </data>
+  <data name="FlashDevelop.Info.ExtensionFilter" xml:space="preserve">
+    <value>Filtro de extensión:</value>
+  </data>
+  <data name="FlashDevelop.Info.FileDetails" xml:space="preserve">
+    <value>Archivo: {1}{0}Creado: {2}{0}Modificado: {3}{0}Tamaño: {4} bytes</value>
+  </data>
+  <data name="FlashDevelop.Info.FileDialogFilter" xml:space="preserve">
+    <value>Todos los Archivos (*.*)</value>
+  </data>
+  <data name="FlashDevelop.Info.FileHeader" xml:space="preserve">
+    <value>Archivo</value>
+  </data>
+  <data name="FlashDevelop.Info.FileIsModifiedOutside" xml:space="preserve">
+    <value>Un archivo ha sido modificado de forma externa. Desea reabrir el archivo:{0}{1}?</value>
+  </data>
+  <data name="FlashDevelop.Info.FilterSettings" xml:space="preserve">
+    <value>Opciones de Filtrado:</value>
+  </data>
+  <data name="FlashDevelop.Info.Find" xml:space="preserve">
+    <value>Buscar:</value>
+  </data>
+  <data name="FlashDevelop.Info.FindLookupCanceled" xml:space="preserve">
+    <value>Búsqueda cancelada.</value>
+  </data>
+  <data name="FlashDevelop.Info.FindWhat" xml:space="preserve">
+    <value>Buscar:</value>
+  </data>
+  <data name="FlashDevelop.Info.Font" xml:space="preserve">
+    <value>Fuente:</value>
+  </data>
+  <data name="FlashDevelop.Info.Foreground" xml:space="preserve">
+    <value>Primer plano:</value>
+  </data>
+  <data name="FlashDevelop.Info.FoundInFiles" xml:space="preserve">
+    <value>Se encontraron {0} coincidencias en {1} archivos.</value>
+  </data>
+  <data name="FlashDevelop.Info.FullSourceCode" xml:space="preserve">
+    <value>Código fuente completo.</value>
+  </data>
+  <data name="FlashDevelop.Info.GiveProperInt32Value" xml:space="preserve">
+    <value>Dar un valor entero correcto.</value>
+  </data>
+  <data name="FlashDevelop.Info.Help" xml:space="preserve">
+    <value>Ayuda</value>
+  </data>
+  <data name="FlashDevelop.Info.HighlightBack" xml:space="preserve">
+    <value>Volver a resaltar:</value>
+  </data>
+  <data name="FlashDevelop.Info.InitFailed" xml:space="preserve">
+    <value>La incialización ha fallado. Por favor, reinicie FlashDevelop.</value>
+  </data>
+  <data name="FlashDevelop.Info.Initializing" xml:space="preserve">
+    <value>FlashDevelop se está iniciando. Un momento...</value>
+  </data>
+  <data name="FlashDevelop.Info.InsertInstruction" xml:space="preserve">
+    <value>Inserte una instrucción:</value>
+  </data>
+  <data name="FlashDevelop.Info.InvalidFileOnReopen" xml:space="preserve">
+    <value>No puede encontrarse el archivo. El menú será reconstruido.</value>
+  </data>
+  <data name="FlashDevelop.Info.InvalidToolPath" xml:space="preserve">
+    <value>Ruta incorrecta hacia {0} en {1} opciones</value>
+  </data>
+  <data name="FlashDevelop.Info.Italic" xml:space="preserve">
+    <value>Itálicas</value>
+  </data>
+  <data name="FlashDevelop.Info.ItemStyle" xml:space="preserve">
+    <value>Estilo del Item</value>
+  </data>
+  <data name="FlashDevelop.Info.Key" xml:space="preserve">
+    <value>Clave:</value>
+  </data>
+  <data name="FlashDevelop.Info.Language" xml:space="preserve">
+    <value>Lenguaje:</value>
+  </data>
+  <data name="FlashDevelop.Info.LineHeader" xml:space="preserve">
+    <value>Línea</value>
+  </data>
+  <data name="FlashDevelop.Info.LookIn" xml:space="preserve">
+    <value>Mirar en:</value>
+  </data>
+  <data name="FlashDevelop.Info.MakeReadOnlyWritable" xml:space="preserve">
+    <value>Archivo de sólo lectura. Desea cambiar los atributos para poder escribir en él?</value>
+  </data>
+  <data name="FlashDevelop.Info.MarginBack" xml:space="preserve">
+    <value>Margen trasero:</value>
+  </data>
+  <data name="FlashDevelop.Info.MarginFore" xml:space="preserve">
+    <value>Margen delantero:</value>
+  </data>
+  <data name="FlashDevelop.Info.MarkerBack" xml:space="preserve">
+    <value>Marcador trasero:</value>
+  </data>
+  <data name="FlashDevelop.Info.MarkerFore" xml:space="preserve">
+    <value>Marcador delantero:</value>
+  </data>
+  <data name="FlashDevelop.Info.MatchesBookmarked" xml:space="preserve">
+    <value>Todas las ocurrencias ahora están anotadas.</value>
+  </data>
+  <data name="FlashDevelop.Info.ModifiedLine" xml:space="preserve">
+    <value>Modificar Línea:</value>
+  </data>
+  <data name="FlashDevelop.Info.NoFileInfoAvailable" xml:space="preserve">
+    <value>No existe información del archivo.</value>
+  </data>
+  <data name="FlashDevelop.Info.NoItemSelected" xml:space="preserve">
+    <value>(nada seleccionado)</value>
+  </data>
+  <data name="FlashDevelop.Info.NoMatches" xml:space="preserve">
+    <value>No hay coincidencias.</value>
+  </data>
+  <data name="FlashDevelop.Info.NoMatchesFound" xml:space="preserve">
+    <value>No se encontraron coincidencias.</value>
+  </data>
+  <data name="FlashDevelop.Info.NotEnoughArguments" xml:space="preserve">
+    <value>No hay suficientes argumentos para correr el proceso correctamente:</value>
+  </data>
+  <data name="FlashDevelop.Info.NothingToBookmark" xml:space="preserve">
+    <value>No hay nada que marcar.</value>
+  </data>
+  <data name="FlashDevelop.Info.NothingToPrint" xml:space="preserve">
+    <value>No hay nada que imprimir.</value>
+  </data>
+  <data name="FlashDevelop.Info.NoUpdateAvailable" xml:space="preserve">
+    <value>No hay actualizaciones disponibles.</value>
+  </data>
+  <data name="FlashDevelop.Info.OnlyErrorManager" xml:space="preserve">
+    <value>Sólo ErrorManager se permite mostrar el cuadro de diálogo de error directamente.</value>
+  </data>
+  <data name="FlashDevelop.Info.PathHeader" xml:space="preserve">
+    <value>Ruta</value>
+  </data>
+  <data name="FlashDevelop.Info.PrintFooterPage" xml:space="preserve">
+    <value>Página</value>
+  </data>
+  <data name="FlashDevelop.Info.PrintMargin" xml:space="preserve">
+    <value>Margenes de Impresión:</value>
+  </data>
+  <data name="FlashDevelop.Info.ProcessAlreadyRunning" xml:space="preserve">
+    <value>Un proceso se está ejecutando actualmente.</value>
+  </data>
+  <data name="FlashDevelop.Info.ProcessDone" xml:space="preserve">
+    <value>Finalizado</value>
+  </data>
+  <data name="FlashDevelop.Info.RecoveryInfo" xml:space="preserve">
+    <value>La carpeta de recuperación contiene archivos de copia de seguridad temporales y esto posiblemente significa que su sesión anterior fue interrumpida. {0} ¿Qué quiere hacer con estos archivos?</value>
+  </data>
+  <data name="FlashDevelop.Info.RedirectFilesResults" xml:space="preserve">
+    <value>Enviar resultados al Panel de Resultados</value>
+  </data>
+  <data name="FlashDevelop.Info.ReplacedInFiles" xml:space="preserve">
+    <value>Se reemplazaron un total de {0} coincidencias en {1} archivos.</value>
+  </data>
+  <data name="FlashDevelop.Info.ReplacedMatches" xml:space="preserve">
+    <value>Reemplazó un total de {0} coincidencias.</value>
+  </data>
+  <data name="FlashDevelop.Info.ReplaceLookupCanceled" xml:space="preserve">
+    <value>El proceso de reemplazo se canceló.</value>
+  </data>
+  <data name="FlashDevelop.Info.ReplacementsHeader" xml:space="preserve">
+    <value>Reemplazar</value>
+  </data>
+  <data name="FlashDevelop.Info.ReplaceWith" xml:space="preserve">
+    <value>Reemplazar con:</value>
+  </data>
+  <data name="FlashDevelop.Info.RequiresRestart" xml:space="preserve">
+    <value>Para aplicar los cambios debe reiniciar FlashDevelop.</value>
+  </data>
+  <data name="FlashDevelop.Info.RestartAfterPluginChange" xml:space="preserve">
+    <value>Reinicie FlashDevelop luego de activar o desactivar plugins.</value>
+  </data>
+  <data name="FlashDevelop.Info.RevertSettingsFiles" xml:space="preserve">
+    <value>Desea revertir los archivos de configuración de lenguajes [Yes] o quiere mantener su configuración personalizada de colores  [No]?</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDevelop.Info.RevertSnippetFiles" xml:space="preserve">
+    <value>Desea revertir todos los archivos de  snippet a su estado original?</value>
+  </data>
+  <data name="FlashDevelop.Info.RunningProcess" xml:space="preserve">
+    <value>Proceso corriendo:</value>
+  </data>
+  <data name="FlashDevelop.Info.SampleText" xml:space="preserve">
+    <value>Texto de Ejemplo</value>
+  </data>
+  <data name="FlashDevelop.Info.SaveChanges" xml:space="preserve">
+    <value>Desea guardar los cambios?</value>
+  </data>
+  <data name="FlashDevelop.Info.SaveCurrentLanguage" xml:space="preserve">
+    <value>Desea guardar el lenguaje actual?</value>
+  </data>
+  <data name="FlashDevelop.Info.SaveCurrentSnippet" xml:space="preserve">
+    <value>Desea guardar el snippet?</value>
+  </data>
+  <data name="FlashDevelop.Info.SelectedReplaced" xml:space="preserve">
+    <value>La ocurrencia seleccionada fue reemplazada.</value>
+  </data>
+  <data name="FlashDevelop.Info.SelectionBack" xml:space="preserve">
+    <value>Selección trasera:</value>
+  </data>
+  <data name="FlashDevelop.Info.SelectionFore" xml:space="preserve">
+    <value>Selección delantera:</value>
+  </data>
+  <data name="FlashDevelop.Info.SelectSnippetLocation" xml:space="preserve">
+    <value>Seleccione la carpeta de sus snippets...</value>
+  </data>
+  <data name="FlashDevelop.Info.SettingsTakeEffect" xml:space="preserve">
+    <value>Los cambios se aplican inmediatamente pero algunos necesitan que reinicie el programa.</value>
+  </data>
+  <data name="FlashDevelop.Info.ShortcutEditInfo" xml:space="preserve">
+    <value>Los atajos pueden editarse seleccionando el item y presionando una combinación de teclas válida.</value>
+  </data>
+  <data name="FlashDevelop.Info.ShortcutIsAlreadyUsed" xml:space="preserve">
+    <value>La combinación seleccionada es usada en otro atajo.</value>
+  </data>
+  <data name="FlashDevelop.Info.ShowingResult" xml:space="preserve">
+    <value>Mostrando resultados {0} de {1}.</value>
+  </data>
+  <data name="FlashDevelop.Info.Size" xml:space="preserve">
+    <value>Tamaño:</value>
+  </data>
+  <data name="FlashDevelop.Info.SnippetFilter" xml:space="preserve">
+    <value>FlashDevelop Snippets (*.fds)</value>
+  </data>
+  <data name="FlashDevelop.Info.SnippetItemDesc" xml:space="preserve">
+    <value>Snippet</value>
+  </data>
+  <data name="FlashDevelop.Info.SnippetName" xml:space="preserve">
+    <value>Nombre del Snippet:</value>
+  </data>
+  <data name="FlashDevelop.Info.Snippets" xml:space="preserve">
+    <value>Snippets:</value>
+  </data>
+  <data name="FlashDevelop.Info.StatusText" xml:space="preserve">
+    <value>Línea: {0}  |  Columna: {1}  |  EOL: ({2})  |  Codificación: {3}  |  {4}</value>
+  </data>
+  <data name="FlashDevelop.Info.StringsOnly" xml:space="preserve">
+    <value>Cadenas solamente</value>
+  </data>
+  <data name="FlashDevelop.Info.TemplateFilter" xml:space="preserve">
+    <value>Plantilla FlashDevelop (*.fdt)</value>
+  </data>
+  <data name="FlashDevelop.Info.ThemesFilter" xml:space="preserve">
+    <value>Archivo FlashDevelop Theme (*.fdi, *.fdz)|*.fdi;*.fdz</value>
+  </data>
+  <data name="FlashDevelop.Info.TopFolder" xml:space="preserve">
+    <value>Carpeta principal:</value>
+  </data>
+  <data name="FlashDevelop.Info.UnableToLoadPlugin" xml:space="preserve">
+    <value>Incompatible o Dañado. No puede cargarse el plugin:</value>
+  </data>
+  <data name="FlashDevelop.Info.Undefined" xml:space="preserve">
+    <value>Indefinido</value>
+  </data>
+  <data name="FlashDevelop.Info.Unknown" xml:space="preserve">
+    <value>Desconocido</value>
+  </data>
+  <data name="FlashDevelop.Info.UntitledFileStart" xml:space="preserve">
+    <value>Sin título</value>
+  </data>
+  <data name="FlashDevelop.Info.UpdateAvailable" xml:space="preserve">
+    <value>Hay una nueva versión de FlashDevelop disponible. {0}Versión instalada: {1}  /  Versión Disponible: {2}</value>
+  </data>
+  <data name="FlashDevelop.Info.UpdateCheckFailed" xml:space="preserve">
+    <value>No puede ejecutarse la búsqueda de actualizaciones. {0}Verifique su conexión a Internet.</value>
+  </data>
+  <data name="FlashDevelop.Info.Value" xml:space="preserve">
+    <value>Valor:</value>
+  </data>
+  <data name="FlashDevelop.Info.ZipConfirmExtract" xml:space="preserve">
+    <value>Puede extraerse el siguiente archivo zip:</value>
+  </data>
+  <data name="FlashDevelop.Info.ZipConfirmRemove" xml:space="preserve">
+    <value>El archivo zip puede ser eliminado:</value>
+  </data>
+  <data name="FlashDevelop.Info.ZipExtractDone" xml:space="preserve">
+    <value>El archivo zip fue extraído satisfactoriamente.</value>
+  </data>
+  <data name="FlashDevelop.Info.ZipFilter" xml:space="preserve">
+    <value>Archivos FlashDevelop Zip (*.fdz)|*.fdz</value>
+  </data>
+  <data name="FlashDevelop.Info.ZipRemoveDone" xml:space="preserve">
+    <value>El archivo zip fue eliminado satisfactoriamente.</value>
+  </data>
+  <data name="FlashDevelop.Label.8Bits" xml:space="preserve">
+    <value>8 &amp;Bits</value>
+  </data>
+  <data name="FlashDevelop.Label.About" xml:space="preserve">
+    <value>&amp;Acerda de FlashDevelop...</value>
+  </data>
+  <data name="FlashDevelop.Label.Add" xml:space="preserve">
+    <value>&amp;Agregar</value>
+  </data>
+  <data name="FlashDevelop.Label.ApplicationFiles" xml:space="preserve">
+    <value>Archivos de configuración del Usuario...</value>
+  </data>
+  <data name="FlashDevelop.Label.Apply" xml:space="preserve">
+    <value>&amp;Aplicar</value>
+  </data>
+  <data name="FlashDevelop.Label.AS2Document" xml:space="preserve">
+    <value>Documento AS2</value>
+  </data>
+  <data name="FlashDevelop.Label.AS3Document" xml:space="preserve">
+    <value>Documento AS3</value>
+  </data>
+  <data name="FlashDevelop.Label.ASDocGen" xml:space="preserve">
+    <value>&amp;Generador de Documentación...</value>
+  </data>
+  <data name="FlashDevelop.Label.Back" xml:space="preserve">
+    <value>Volver</value>
+  </data>
+  <data name="FlashDevelop.Label.BackupSettings" xml:space="preserve">
+    <value>&amp;Resguardar todas las opciones...</value>
+  </data>
+  <data name="FlashDevelop.Label.BigEndian" xml:space="preserve">
+    <value>&amp;Big Endian</value>
+  </data>
+  <data name="FlashDevelop.Label.BlankDocument" xml:space="preserve">
+    <value>Documento en Blanco</value>
+  </data>
+  <data name="FlashDevelop.Label.BlockComment" xml:space="preserve">
+    <value>Bloque de Co&amp;mentarios</value>
+  </data>
+  <data name="FlashDevelop.Label.BookmarkAll" xml:space="preserve">
+    <value>&amp;Marcar Todos</value>
+  </data>
+  <data name="FlashDevelop.Label.Cancel" xml:space="preserve">
+    <value>Ca&amp;ncelar</value>
+  </data>
+  <data name="FlashDevelop.Label.CheckUpdates" xml:space="preserve">
+    <value>&amp;Buscando Actualizaciones...</value>
+  </data>
+  <data name="FlashDevelop.Label.ClearBookmarks" xml:space="preserve">
+    <value>Lim&amp;piar Marcadores</value>
+  </data>
+  <data name="FlashDevelop.Label.ClearBreakpoints" xml:space="preserve">
+    <value>Eliminar puntos de interrupción</value>
+  </data>
+  <data name="FlashDevelop.Label.ClearReopenList" xml:space="preserve">
+    <value>&amp;Eliminar Lista de archivos recientes</value>
+  </data>
+  <data name="FlashDevelop.Label.Close" xml:space="preserve">
+    <value>&amp;Cerrar</value>
+  </data>
+  <data name="FlashDevelop.Label.CloseAll" xml:space="preserve">
+    <value>Cerra&amp;r Todo</value>
+  </data>
+  <data name="FlashDevelop.Label.CloseOthers" xml:space="preserve">
+    <value>Cerrar &amp;Otros</value>
+  </data>
+  <data name="FlashDevelop.Label.CodeSnippets" xml:space="preserve">
+    <value>&amp;Códigos Snippets...</value>
+  </data>
+  <data name="FlashDevelop.Label.CollapseAll" xml:space="preserve">
+    <value>Colapsar Todo</value>
+  </data>
+  <data name="FlashDevelop.Label.CollapseFunctions" xml:space="preserve">
+    <value>Colapsar Funciones</value>
+  </data>
+  <data name="FlashDevelop.Label.CollapseRegions" xml:space="preserve">
+    <value>Colapsar Regiones</value>
+  </data>
+  <data name="FlashDevelop.Label.Color" xml:space="preserve">
+    <value>&amp;Color</value>
+  </data>
+  <data name="FlashDevelop.Label.Command" xml:space="preserve">
+    <value>Comando</value>
+  </data>
+  <data name="FlashDevelop.Label.CommandPrompt" xml:space="preserve">
+    <value>&amp;Símbolo del Sistema</value>
+  </data>
+  <data name="FlashDevelop.Label.CommentLine" xml:space="preserve">
+    <value>Lí&amp;nea de comentarios</value>
+  </data>
+  <data name="FlashDevelop.Label.CommentSelection" xml:space="preserve">
+    <value>Seleccionar Co&amp;mentarios</value>
+  </data>
+  <data name="FlashDevelop.Label.CompareFiles" xml:space="preserve">
+    <value>&amp;Comparar Archivos...</value>
+  </data>
+  <data name="FlashDevelop.Label.Continue" xml:space="preserve">
+    <value>&amp;Continuar</value>
+  </data>
+  <data name="FlashDevelop.Label.ConvertTextTo" xml:space="preserve">
+    <value>Convertir Texto a</value>
+  </data>
+  <data name="FlashDevelop.Label.Copy" xml:space="preserve">
+    <value>&amp;Copiar</value>
+  </data>
+  <data name="FlashDevelop.Label.CopyLine" xml:space="preserve">
+    <value>C&amp;opiar Línea</value>
+  </data>
+  <data name="FlashDevelop.Label.CR" xml:space="preserve">
+    <value>C&amp;R</value>
+  </data>
+  <data name="FlashDevelop.Label.CRLF" xml:space="preserve">
+    <value>&amp;CR+LF</value>
+  </data>
+  <data name="FlashDevelop.Label.CSSDocument" xml:space="preserve">
+    <value>Documento CSS</value>
+  </data>
+  <data name="FlashDevelop.Label.CSSValidator" xml:space="preserve">
+    <value>Validador &amp;CSS...</value>
+  </data>
+  <data name="FlashDevelop.Label.CustomArguments" xml:space="preserve">
+    <value>Argumentos P&amp;ersonalizados...</value>
+  </data>
+  <data name="FlashDevelop.Label.Cut" xml:space="preserve">
+    <value>Co&amp;rtar</value>
+  </data>
+  <data name="FlashDevelop.Label.CutLine" xml:space="preserve">
+    <value>Co&amp;rtar Línea</value>
+  </data>
+  <data name="FlashDevelop.Label.Debug" xml:space="preserve">
+    <value>&amp;Depurar</value>
+  </data>
+  <data name="FlashDevelop.Label.Delete" xml:space="preserve">
+    <value>&amp;Eliminar</value>
+  </data>
+  <data name="FlashDevelop.Label.DeleteFiles" xml:space="preserve">
+    <value>&amp;Elimimnar Archivos</value>
+  </data>
+  <data name="FlashDevelop.Label.DeleteLine" xml:space="preserve">
+    <value>&amp;Eliminar Línea</value>
+  </data>
+  <data name="FlashDevelop.Label.Details" xml:space="preserve">
+    <value>&amp;Detalles</value>
+  </data>
+  <data name="FlashDevelop.Label.DownloadUpdate" xml:space="preserve">
+    <value>&amp;Descargar Actualización</value>
+  </data>
+  <data name="FlashDevelop.Label.Duplicate" xml:space="preserve">
+    <value>&amp;Duplicar</value>
+  </data>
+  <data name="FlashDevelop.Label.DuplicateSelection" xml:space="preserve">
+    <value>Duplic&amp;ar Selección</value>
+  </data>
+  <data name="FlashDevelop.Label.Edit" xml:space="preserve">
+    <value>&amp;Editar</value>
+  </data>
+  <data name="FlashDevelop.Label.Encoding" xml:space="preserve">
+    <value>Co&amp;dificación</value>
+  </data>
+  <data name="FlashDevelop.Label.EncodingInput" xml:space="preserve">
+    <value>Códificación:</value>
+  </data>
+  <data name="FlashDevelop.Label.EscapedCharacters" xml:space="preserve">
+    <value>Caracteres de &amp;Escape</value>
+  </data>
+  <data name="FlashDevelop.Label.Exit" xml:space="preserve">
+    <value>S&amp;alir</value>
+  </data>
+  <data name="FlashDevelop.Label.ExpandAll" xml:space="preserve">
+    <value>E&amp;xpanir Todo</value>
+  </data>
+  <data name="FlashDevelop.Label.ExportArguments" xml:space="preserve">
+    <value>&amp;Exportar Argumentos...</value>
+  </data>
+  <data name="FlashDevelop.Label.ExportFiles" xml:space="preserve">
+    <value>Exportar Archivos...</value>
+  </data>
+  <data name="FlashDevelop.Label.FDDocs" xml:space="preserve">
+    <value>&amp;Documentación en línea...</value>
+  </data>
+  <data name="FlashDevelop.Label.FDHome" xml:space="preserve">
+    <value>&amp;Página de FlashDevelop...</value>
+  </data>
+  <data name="FlashDevelop.Label.File" xml:space="preserve">
+    <value>&amp;Archivo</value>
+  </data>
+  <data name="FlashDevelop.Label.FileDetails" xml:space="preserve">
+    <value>Detalles del &amp;Archivo</value>
+  </data>
+  <data name="FlashDevelop.Label.Find" xml:space="preserve">
+    <value>&amp;Buscar...</value>
+  </data>
+  <data name="FlashDevelop.Label.FindAndReplace" xml:space="preserve">
+    <value>&amp;Buscar y Reemplazar...</value>
+  </data>
+  <data name="FlashDevelop.Label.FindAndReplaceInFiles" xml:space="preserve">
+    <value>Buscar y &amp;Reemplazar Archivos...</value>
+  </data>
+  <data name="FlashDevelop.Label.FindNext" xml:space="preserve">
+    <value>Buscar &amp;Siguiente</value>
+  </data>
+  <data name="FlashDevelop.Label.FindPrevious" xml:space="preserve">
+    <value>Buscar &amp;Previo</value>
+  </data>
+  <data name="FlashDevelop.Label.FlashTools" xml:space="preserve">
+    <value>Herramientas &amp;Flash</value>
+  </data>
+  <data name="FlashDevelop.Label.Forward" xml:space="preserve">
+    <value>Adelante</value>
+  </data>
+  <data name="FlashDevelop.Label.FromFile" xml:space="preserve">
+    <value>&amp;Desde Archivo...</value>
+  </data>
+  <data name="FlashDevelop.Label.FullScreen" xml:space="preserve">
+    <value>P&amp;antalla Completa</value>
+  </data>
+  <data name="FlashDevelop.Label.GeneralTools" xml:space="preserve">
+    <value>&amp;Herramientas Generales</value>
+  </data>
+  <data name="FlashDevelop.Label.Go" xml:space="preserve">
+    <value>Ir</value>
+  </data>
+  <data name="FlashDevelop.Label.GotoMatchingBrace" xml:space="preserve">
+    <value>Ir a la &amp;llave pareja</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDevelop.Label.GotoPositionOrLine" xml:space="preserve">
+    <value>&amp;Ir a la posición o Línea...</value>
+  </data>
+  <data name="FlashDevelop.Label.GUID" xml:space="preserve">
+    <value>&amp;GUID</value>
+  </data>
+  <data name="FlashDevelop.Label.Hash" xml:space="preserve">
+    <value>&amp;Hash...</value>
+  </data>
+  <data name="FlashDevelop.Label.HashInput" xml:space="preserve">
+    <value>Hash:</value>
+  </data>
+  <data name="FlashDevelop.Label.HaxeDocument" xml:space="preserve">
+    <value>Documento Haxe</value>
+  </data>
+  <data name="FlashDevelop.Label.Help" xml:space="preserve">
+    <value>&amp;Ayuda</value>
+  </data>
+  <data name="FlashDevelop.Label.HighlightAll" xml:space="preserve">
+    <value>&amp;Destacar Todo</value>
+  </data>
+  <data name="FlashDevelop.Label.Homepage" xml:space="preserve">
+    <value>&amp;Página de Inicio</value>
+  </data>
+  <data name="FlashDevelop.Label.HTMLDocument" xml:space="preserve">
+    <value>Documento HTML</value>
+  </data>
+  <data name="FlashDevelop.Label.HTMLValidator" xml:space="preserve">
+    <value>Validador &amp;HTML...</value>
+  </data>
+  <data name="FlashDevelop.Label.ImportArguments" xml:space="preserve">
+    <value>&amp;Importar Argumentos...</value>
+  </data>
+  <data name="FlashDevelop.Label.IndentationGuides" xml:space="preserve">
+    <value>&amp;Guías de Sangría</value>
+  </data>
+  <data name="FlashDevelop.Label.InputText" xml:space="preserve">
+    <value>Entrada:</value>
+  </data>
+  <data name="FlashDevelop.Label.Insert" xml:space="preserve">
+    <value>&amp;Insertar</value>
+  </data>
+  <data name="FlashDevelop.Label.InstallSoftware" xml:space="preserve">
+    <value>Instalar Software...</value>
+  </data>
+  <data name="FlashDevelop.Label.JScriptDocument" xml:space="preserve">
+    <value>Documento JScript</value>
+  </data>
+  <data name="FlashDevelop.Label.KeyboardShortcuts" xml:space="preserve">
+    <value>Atajos de T&amp;eclado...</value>
+  </data>
+  <data name="FlashDevelop.Label.KillRunningProcess" xml:space="preserve">
+    <value>&amp;Detener el proceso</value>
+  </data>
+  <data name="FlashDevelop.Label.LanguageReferences" xml:space="preserve">
+    <value>&amp;Referencia del Lenguaje</value>
+  </data>
+  <data name="FlashDevelop.Label.LF" xml:space="preserve">
+    <value>&amp;LF</value>
+  </data>
+  <data name="FlashDevelop.Label.Line" xml:space="preserve">
+    <value>&amp;Línea</value>
+  </data>
+  <data name="FlashDevelop.Label.LineComment" xml:space="preserve">
+    <value>Comentar Lí&amp;nea</value>
+  </data>
+  <data name="FlashDevelop.Label.LineEndCharacters" xml:space="preserve">
+    <value>&amp;Caracter de Fin de Línea</value>
+  </data>
+  <data name="FlashDevelop.Label.LineEnds" xml:space="preserve">
+    <value>&amp;Fin de Línea</value>
+  </data>
+  <data name="FlashDevelop.Label.LittleEndian" xml:space="preserve">
+    <value>&amp;Little Endian</value>
+  </data>
+  <data name="FlashDevelop.Label.LookInComments" xml:space="preserve">
+    <value>Buscar en &amp;comentarios</value>
+  </data>
+  <data name="FlashDevelop.Label.LookInStrings" xml:space="preserve">
+    <value>Buscar en &amp;cadenas</value>
+  </data>
+  <data name="FlashDevelop.Label.LookInSubdirectories" xml:space="preserve">
+    <value>Buscar en sub&amp;carpetas</value>
+  </data>
+  <data name="FlashDevelop.Label.MakeAsDefault" xml:space="preserve">
+    <value>Hacer Estilo por Defecto</value>
+  </data>
+  <data name="FlashDevelop.Label.MatchCase" xml:space="preserve">
+    <value>Coincidir &amp;Mayúsculas y Minúsculas</value>
+  </data>
+  <data name="FlashDevelop.Label.Modify" xml:space="preserve">
+    <value>&amp;Modificar</value>
+  </data>
+  <data name="FlashDevelop.Label.MoveLineDown" xml:space="preserve">
+    <value>Mover Línea hacia Abajo</value>
+  </data>
+  <data name="FlashDevelop.Label.MoveLineUp" xml:space="preserve">
+    <value>Mover Línea hacia Arriba</value>
+  </data>
+  <data name="FlashDevelop.Label.MXMLDocument" xml:space="preserve">
+    <value>Documento MXML</value>
+  </data>
+  <data name="FlashDevelop.Label.New" xml:space="preserve">
+    <value>&amp;Nuevo</value>
+  </data>
+  <data name="FlashDevelop.Label.Next" xml:space="preserve">
+    <value>&amp;Siguiente</value>
+  </data>
+  <data name="FlashDevelop.Label.NextBookmark" xml:space="preserve">
+    <value>Sig&amp;uiente Marcador</value>
+  </data>
+  <data name="FlashDevelop.Label.NotifyLater" xml:space="preserve">
+    <value>&amp;Notificar Después</value>
+  </data>
+  <data name="FlashDevelop.Label.Ok" xml:space="preserve">
+    <value>&amp;OK</value>
+  </data>
+  <data name="FlashDevelop.Label.Open" xml:space="preserve">
+    <value>&amp;Abrir...</value>
+  </data>
+  <data name="FlashDevelop.Label.OpenFiles" xml:space="preserve">
+    <value>&amp;Abrir Archivo</value>
+  </data>
+  <data name="FlashDevelop.Label.OpenFilesIn" xml:space="preserve">
+    <value>&amp;Abrir Archivo en</value>
+  </data>
+  <data name="FlashDevelop.Label.Options" xml:space="preserve">
+    <value>Opciones</value>
+  </data>
+  <data name="FlashDevelop.Label.OutputText" xml:space="preserve">
+    <value>Salida:</value>
+  </data>
+  <data name="FlashDevelop.Label.Paste" xml:space="preserve">
+    <value>&amp;Pegar</value>
+  </data>
+  <data name="FlashDevelop.Label.PHPDocument" xml:space="preserve">
+    <value>Documento PHP</value>
+  </data>
+  <data name="FlashDevelop.Label.Position" xml:space="preserve">
+    <value>&amp;Posición</value>
+  </data>
+  <data name="FlashDevelop.Label.PrevBookmark" xml:space="preserve">
+    <value>Marcador Pr&amp;evio</value>
+  </data>
+  <data name="FlashDevelop.Label.Previous" xml:space="preserve">
+    <value>&amp;Previo</value>
+  </data>
+  <data name="FlashDevelop.Label.Print" xml:space="preserve">
+    <value>&amp;Imprimir</value>
+  </data>
+  <data name="FlashDevelop.Label.PrintPreview" xml:space="preserve">
+    <value>Vista Previ&amp;a</value>
+  </data>
+  <data name="FlashDevelop.Label.ProgramSettings" xml:space="preserve">
+    <value>&amp;Opciones del Programa...</value>
+  </data>
+  <data name="FlashDevelop.Label.PublishMovieInFlash" xml:space="preserve">
+    <value>Publicar animación en el IDE de Flash</value>
+  </data>
+  <data name="FlashDevelop.Label.QuickFind" xml:space="preserve">
+    <value>&amp;Búsqueda Rápida...</value>
+  </data>
+  <data name="FlashDevelop.Label.QuickFindNext" xml:space="preserve">
+    <value>Búsqueda Rápida &amp;Siguiente</value>
+  </data>
+  <data name="FlashDevelop.Label.QuickFindPrevious" xml:space="preserve">
+    <value>Búsqueda Rápida &amp;Previo</value>
+  </data>
+  <data name="FlashDevelop.Label.RecentFiles" xml:space="preserve">
+    <value>&amp;Archivos recientes</value>
+  </data>
+  <data name="FlashDevelop.Label.Redo" xml:space="preserve">
+    <value>&amp;Rehacer</value>
+  </data>
+  <data name="FlashDevelop.Label.Refresh" xml:space="preserve">
+    <value>Recargar</value>
+  </data>
+  <data name="FlashDevelop.Label.RegularExpressions" xml:space="preserve">
+    <value>Expresiones Re&amp;gulares</value>
+  </data>
+  <data name="FlashDevelop.Label.ReleaseNotes" xml:space="preserve">
+    <value>&amp;Notas de la Versión...</value>
+  </data>
+  <data name="FlashDevelop.Label.Reload" xml:space="preserve">
+    <value>&amp;Recargar</value>
+  </data>
+  <data name="FlashDevelop.Label.RemoveShortcut" xml:space="preserve">
+    <value>&amp;Remover Estructura</value>
+  </data>
+  <data name="FlashDevelop.Label.Replace" xml:space="preserve">
+    <value>&amp;Reemplazar...</value>
+  </data>
+  <data name="FlashDevelop.Label.ReplaceAll" xml:space="preserve">
+    <value>Reemplazar &amp;Todo</value>
+  </data>
+  <data name="FlashDevelop.Label.Restart" xml:space="preserve">
+    <value>Reini&amp;ciar</value>
+  </data>
+  <data name="FlashDevelop.Label.Revert" xml:space="preserve">
+    <value>Re&amp;vertir</value>
+  </data>
+  <data name="FlashDevelop.Label.RevertFiles" xml:space="preserve">
+    <value>Revertir Archivos...</value>
+  </data>
+  <data name="FlashDevelop.Label.RevertToDefault" xml:space="preserve">
+    <value>Revertir al &amp;Original</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDevelop.Label.Save" xml:space="preserve">
+    <value>&amp;Guardar</value>
+  </data>
+  <data name="FlashDevelop.Label.SaveAll" xml:space="preserve">
+    <value>Gu&amp;ardar Todo</value>
+  </data>
+  <data name="FlashDevelop.Label.SaveAs" xml:space="preserve">
+    <value>Guardar &amp;Como...</value>
+  </data>
+  <data name="FlashDevelop.Label.SaveAsSnippet" xml:space="preserve">
+    <value>Guardar como Snippet...</value>
+  </data>
+  <data name="FlashDevelop.Label.SaveAsTemplate" xml:space="preserve">
+    <value>Guardar como Plantilla...</value>
+  </data>
+  <data name="FlashDevelop.Label.SaveBOM" xml:space="preserve">
+    <value>&amp;Guardar la Marca de Orden de Bytes</value>
+  </data>
+  <data name="FlashDevelop.Label.Search" xml:space="preserve">
+    <value>&amp;Buscar</value>
+  </data>
+  <data name="FlashDevelop.Label.SelectAll" xml:space="preserve">
+    <value>&amp;Seleccionar Todo</value>
+  </data>
+  <data name="FlashDevelop.Label.Selection" xml:space="preserve">
+    <value>&amp;Selección</value>
+  </data>
+  <data name="FlashDevelop.Label.SelectTheme" xml:space="preserve">
+    <value>Selecionar el tema de la Interfaz.</value>
+  </data>
+  <data name="FlashDevelop.Label.Settings" xml:space="preserve">
+    <value>&amp;Opciones...</value>
+  </data>
+  <data name="FlashDevelop.Label.Shortcut" xml:space="preserve">
+    <value>Atajo</value>
+  </data>
+  <data name="FlashDevelop.Label.SmartPaste" xml:space="preserve">
+    <value>Pegado Inteligente</value>
+  </data>
+  <data name="FlashDevelop.Label.Snippet" xml:space="preserve">
+    <value>&amp;Snippet</value>
+  </data>
+  <data name="FlashDevelop.Label.SOReader" xml:space="preserve">
+    <value>&amp;Lector SharedObject...</value>
+  </data>
+  <data name="FlashDevelop.Label.SortLineGroups" xml:space="preserve">
+    <value>Ordenar Grupos de Líneas</value>
+  </data>
+  <data name="FlashDevelop.Label.SortLines" xml:space="preserve">
+    <value>Ordenar Líneas</value>
+  </data>
+  <data name="FlashDevelop.Label.SplitView" xml:space="preserve">
+    <value>&amp;Dividir Vista</value>
+  </data>
+  <data name="FlashDevelop.Label.Syntax" xml:space="preserve">
+    <value>Sinta&amp;xis</value>
+  </data>
+  <data name="FlashDevelop.Label.SyntaxColoring" xml:space="preserve">
+    <value>&amp;Coloreo de Sintaxis...</value>
+  </data>
+  <data name="FlashDevelop.Label.TechnicalSpecifications" xml:space="preserve">
+    <value>&amp;Especificaciones Técnicas</value>
+  </data>
+  <data name="FlashDevelop.Label.TestMovieInFlash" xml:space="preserve">
+    <value>&amp;Testear animación en el IDE de Flash</value>
+  </data>
+  <data name="FlashDevelop.Label.Text" xml:space="preserve">
+    <value>&amp;Texto</value>
+  </data>
+  <data name="FlashDevelop.Label.TextDocument" xml:space="preserve">
+    <value>Documento de Texto</value>
+  </data>
+  <data name="FlashDevelop.Label.Timestamp" xml:space="preserve">
+    <value>&amp;Marca de Tiempo</value>
+  </data>
+  <data name="FlashDevelop.Label.ToggleBookmark" xml:space="preserve">
+    <value>&amp;Alternar Marcador</value>
+  </data>
+  <data name="FlashDevelop.Label.ToggleBreakpoint" xml:space="preserve">
+    <value>Alternar Punto de Interrupción</value>
+  </data>
+  <data name="FlashDevelop.Label.ToggleFold" xml:space="preserve">
+    <value>Alternar &amp;Colapsar</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDevelop.Label.ToLowercase" xml:space="preserve">
+    <value>A Mi&amp;núsculas</value>
+  </data>
+  <data name="FlashDevelop.Label.Tools" xml:space="preserve">
+    <value>&amp;Herramientas</value>
+  </data>
+  <data name="FlashDevelop.Label.ToUppercase" xml:space="preserve">
+    <value>A Mayú&amp;sculas</value>
+  </data>
+  <data name="FlashDevelop.Label.TransposeLines" xml:space="preserve">
+    <value>&amp;Transponer Líneas</value>
+  </data>
+  <data name="FlashDevelop.Label.UncommentBlock" xml:space="preserve">
+    <value>Quitar Bloque de Comentarios</value>
+  </data>
+  <data name="FlashDevelop.Label.UncommentLine" xml:space="preserve">
+    <value>Quitar Línea de Comentario</value>
+  </data>
+  <data name="FlashDevelop.Label.Undo" xml:space="preserve">
+    <value>&amp;Deshacer</value>
+  </data>
+  <data name="FlashDevelop.Label.UndoClose" xml:space="preserve">
+    <value>&amp;Deshacer Cerrar</value>
+  </data>
+  <data name="FlashDevelop.Label.UTF7" xml:space="preserve">
+    <value>U&amp;TF-7</value>
+  </data>
+  <data name="FlashDevelop.Label.UTF8" xml:space="preserve">
+    <value>&amp;UTF-8</value>
+  </data>
+  <data name="FlashDevelop.Label.View" xml:space="preserve">
+    <value>&amp;Ver</value>
+  </data>
+  <data name="FlashDevelop.Label.WebTools" xml:space="preserve">
+    <value>&amp;Herramientas Web</value>
+  </data>
+  <data name="FlashDevelop.Label.WhitespaceCharacters" xml:space="preserve">
+    <value>&amp;Espacios en Blanco</value>
+  </data>
+  <data name="FlashDevelop.Label.WholeWord" xml:space="preserve">
+    <value>&amp;Palabra entera</value>
+  </data>
+  <data name="FlashDevelop.Label.WindowsExplorer" xml:space="preserve">
+    <value>Explorador de &amp;Windows</value>
+  </data>
+  <data name="FlashDevelop.Label.WrapEditorText" xml:space="preserve">
+    <value>Wrap &amp;Editor Text</value>
+    <comment>!!!!</comment>
+  </data>
+  <data name="FlashDevelop.Label.XHTMLDocument" xml:space="preserve">
+    <value>Documento XHTML</value>
+  </data>
+  <data name="FlashDevelop.Label.XMLDocument" xml:space="preserve">
+    <value>Documento XML</value>
+  </data>
+  <data name="FlashDevelop.Label.YesToAll" xml:space="preserve">
+    <value>Sí a T&amp;odo</value>
+  </data>
+  <data name="FlashDevelop.Title.AboutDialog" xml:space="preserve">
+    <value>Acerca de FlashDevelop</value>
+  </data>
+  <data name="FlashDevelop.Title.ArgReplaceDialog" xml:space="preserve">
+    <value>Reemplazar Argumentos</value>
+  </data>
+  <data name="FlashDevelop.Title.ArgumentDialog" xml:space="preserve">
+    <value>Argumentos definidos por el Usuario</value>
+  </data>
+  <data name="FlashDevelop.Title.ConfirmDialog" xml:space="preserve">
+    <value>Confirmar</value>
+  </data>
+  <data name="FlashDevelop.Title.CustomDocument" xml:space="preserve">
+    <value>Cargando...</value>
+  </data>
+  <data name="FlashDevelop.Title.ErrorDialog" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="FlashDevelop.Title.FindAndReplaceDialog" xml:space="preserve">
+    <value>Buscar y Reemplazar</value>
+  </data>
+  <data name="FlashDevelop.Title.FindAndReplaceInFilesDialog" xml:space="preserve">
+    <value>Buscar y Reemplazar en Archivos</value>
+  </data>
+  <data name="FlashDevelop.Title.GoToDialog" xml:space="preserve">
+    <value>Ir a</value>
+  </data>
+  <data name="FlashDevelop.Title.HashDialog" xml:space="preserve">
+    <value>Insertar Hash</value>
+  </data>
+  <data name="FlashDevelop.Title.InfoDialog" xml:space="preserve">
+    <value>Información</value>
+  </data>
+  <data name="FlashDevelop.Title.OpenFileDialog" xml:space="preserve">
+    <value>Abrir Archivo</value>
+  </data>
+  <data name="FlashDevelop.Title.RecoveryDialog" xml:space="preserve">
+    <value>Notificación de Recupero de Archivos</value>
+  </data>
+  <data name="FlashDevelop.Title.SaveChanges" xml:space="preserve">
+    <value>Guardar Cambios en:</value>
+  </data>
+  <data name="FlashDevelop.Title.SaveFileDialog" xml:space="preserve">
+    <value>Guardar Archivo</value>
+  </data>
+  <data name="FlashDevelop.Title.SettingDialog" xml:space="preserve">
+    <value>Opciones</value>
+  </data>
+  <data name="FlashDevelop.Title.Shortcuts" xml:space="preserve">
+    <value>Atajos</value>
+  </data>
+  <data name="FlashDevelop.Title.SnippetDialog" xml:space="preserve">
+    <value>Códigos Snippets</value>
+  </data>
+  <data name="FlashDevelop.Title.SyntaxEditDialog" xml:space="preserve">
+    <value>Coloreo de Sintaxis</value>
+  </data>
+  <data name="FlashDevelop.Title.SyntaxExportDialog" xml:space="preserve">
+    <value>Exportar archivos de Sintaxis</value>
+  </data>
+  <data name="FlashDevelop.Title.UpdateDialog" xml:space="preserve">
+    <value>Buscar Actualización</value>
+  </data>
+  <data name="FlashDevelop.Title.WarningDialog" xml:space="preserve">
+    <value>Advertencia</value>
+  </data>
+  <data name="FlashDevelop.ToolTip.ToggleResults" xml:space="preserve">
+    <value>Alternar Resultados</value>
+  </data>
+  <data name="FlashDebugger.Category.Misc" xml:space="preserve">
+    <value>Misc</value>
+  </data>
+  <data name="FlashDebugger.Category.View" xml:space="preserve">
+    <value>Ver</value>
+  </data>
+  <data name="FlashDebugger.Description.BreakOnThrow" xml:space="preserve">
+    <value>Pausar cuando se produce una excepción, incluso si es controlada.</value>
+  </data>
+  <data name="FlashDebugger.Description.DisablePanelsAutoshow" xml:space="preserve">
+    <value>Al depurar una aplicación los paneles de depuración Aparecen / desaparecen automáticamente.</value>
+  </data>
+  <data name="FlashDebugger.Description.EnableLogging" xml:space="preserve">
+    <value>Habilitar el registro de depuración (requiere reiniciar).</value>
+  </data>
+  <data name="FlashDebugger.Description.SaveBreakPoints" xml:space="preserve">
+    <value>Guardar y restaurar los puntos de interrupción.</value>
+  </data>
+  <data name="FlashDebugger.Description.SourcePaths" xml:space="preserve">
+    <value>Ruta adicional para buscar código fuente. Útil para especificar la ubicación de las plantillas o las fuentes de una biblioteca.</value>
+  </data>
+  <data name="FlashDebugger.Description.StartDebuggerOnTestMovie" xml:space="preserve">
+    <value>Iniciar depurador en Proyecto de prueba.</value>
+  </data>
+  <data name="FlashDebugger.Description.SwitchToLayout" xml:space="preserve">
+    <value>Cambiar al formato seleccionado cuando inicia el depurador. En una pausa, el diseño anterior se restaura. Si se selecciona un diseño, los paneles de depuración no se muestran automáticamente.</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDebugger.Description.VerboseOutput" xml:space="preserve">
+    <value>Mostrar información de depuración detallada, como los eventos carga/descarga de eventos SWF.</value>
+  </data>
+  <data name="FlashDebugger.Info.CannotDebugActiveXPlayer" xml:space="preserve">
+    <value>No puede depurarse una animación en modo ActiveX del reproductor Flash.</value>
+  </data>
+  <data name="FlashDebugger.Info.CannotFindOutputFile" xml:space="preserve">
+    <value>No se encuentra el archivo de salida.</value>
+  </data>
+  <data name="FlashDebugger.Info.ContinuingDueToError" xml:space="preserve">
+    <value>Continando debido al error '${error}'</value>
+  </data>
+  <data name="FlashDebugger.Info.CouldNotHalt" xml:space="preserve">
+    <value>No se puede detener, no hay ningún ActionScript ejecutándose.</value>
+  </data>
+  <data name="FlashDebugger.Info.DebuggerListenAborted" xml:space="preserve">
+    <value>La escucha del depurador fue abortada.</value>
+  </data>
+  <data name="FlashDebugger.Info.DebuggingSessionAlreadyRunning" xml:space="preserve">
+    <value>La sesión de depuración ya inició.</value>
+  </data>
+  <data name="FlashDebugger.Info.DebugWithoutCompile" xml:space="preserve">
+    <value>La compilación ha fallado, iniciar el depurador de todos modos?</value>
+  </data>
+  <data name="FlashDebugger.Info.Description" xml:space="preserve">
+    <value>Agregar un depurador de ActionScript 3 a FlashDevelop.</value>
+  </data>
+  <data name="FlashDebugger.Info.EscapingFromDebuggerPendingLoop" xml:space="preserve">
+    <value>Saliendo del depurador con un bucle pendiente, inicializando $nowaiting = 1</value>
+    <comment>revisar</comment>
+  </data>
+  <data name="FlashDebugger.Info.ExecutionHalted" xml:space="preserve">
+    <value>Ejecución detenida</value>
+  </data>
+  <data name="FlashDebugger.Info.FaultHasNoTableEntry" xml:space="preserve">
+    <value>Error ${faultName} no existe la entrada en la tabla</value>
+  </data>
+  <data name="FlashDebugger.Info.FixBreakpoints" xml:space="preserve">
+    <value>Establezca o remova puntos de interrupción incorrectos, luego escriba 'continue'.</value>
+  </data>
+  <data name="FlashDebugger.Info.FlashPlayerGenericName" xml:space="preserve">
+    <value>Reproductor Flash</value>
+  </data>
+  <data name="FlashDebugger.Info.HaltedInFile" xml:space="preserve">
+    <value>${reasonForHalting}, ${fileAndLine}</value>
+  </data>
+  <data name="FlashDebugger.Info.HaltedInFunction" xml:space="preserve">
+    <value>${reasonForHalting}, ${functionName}() at ${fileAndLine}</value>
+  </data>
+  <data name="FlashDebugger.Info.HitBreakpoint" xml:space="preserve">
+    <value>Interrupción ${breakpointNumber}</value>
+  </data>
+  <data name="FlashDebugger.Info.InformationAboutFault" xml:space="preserve">
+    <value>, información=</value>
+  </data>
+  <data name="FlashDebugger.Info.LanguageNotAS3" xml:space="preserve">
+    <value>El lenguaje no es ActionScript 3.</value>
+  </data>
+  <data name="FlashDebugger.Info.LinePrefixWhenDisplayingConsoleError" xml:space="preserve">
+    <value>[Error]</value>
+  </data>
+  <data name="FlashDebugger.Info.LinePrefixWhenDisplayingFault" xml:space="preserve">
+    <value>[Falla]</value>
+  </data>
+  <data name="FlashDebugger.Info.LinePrefixWhenSwfLoaded" xml:space="preserve">
+    <value>[SWF]</value>
+  </data>
+  <data name="FlashDebugger.Info.LinePrefixWhenSwfUnloaded" xml:space="preserve">
+    <value>[DescargaSWF]</value>
+  </data>
+  <data name="FlashDebugger.Info.NoMainClass" xml:space="preserve">
+    <value>El proyecto no posee una clase principal o main.</value>
+  </data>
+  <data name="FlashDebugger.Info.NoSourceFilesFound" xml:space="preserve">
+    <value>No se encontró el archivo fuente.</value>
+  </data>
+  <data name="FlashDebugger.Info.PlayerAlreadyRunning" xml:space="preserve">
+    <value>El reproductor ya se encuentra ejecutando, no es necesario resumir.</value>
+  </data>
+  <data name="FlashDebugger.Info.PlayerDidNotStop" xml:space="preserve">
+    <value>El reproductor no se detuvo como se esperaba.  Presione la tecla 'Enter' para detenerlo.</value>
+  </data>
+  <data name="FlashDebugger.Info.PlayerStillRunning" xml:space="preserve">
+    <value>El reproductor se está ejecutando. Desea detenerlo?</value>
+  </data>
+  <data name="FlashDebugger.Info.ProcessNotResponding" xml:space="preserve">
+    <value>El proceso no responde.</value>
+  </data>
+  <data name="FlashDebugger.Info.ProjectNotOpen" xml:space="preserve">
+    <value>You must open a project before starting the debugger.</value>
+  </data>
+  <data name="FlashDebugger.Info.SessionTerminated" xml:space="preserve">
+    <value>La sesión del Reproductor terminó.</value>
+  </data>
+  <data name="FlashDebugger.Info.SetAdditionalBreakpoints" xml:space="preserve">
+    <value>Agregue los puntos de interrupción que desee, luego escriba 'continue'.</value>
+  </data>
+  <data name="FlashDebugger.Info.SizeAfterDecompression" xml:space="preserve">
+    <value>${size} bytes luego de la descompresión.</value>
+  </data>
+  <data name="FlashDebugger.Info.UnableToStartDebugger" xml:space="preserve">
+    <value>No puede iniciarse el depurador interactivo.</value>
+  </data>
+  <data name="FlashDebugger.Info.UnknownEvent" xml:space="preserve">
+    <value>Recibido un evento desconocido del tipo '${type}', info = ${info}.</value>
+  </data>
+  <data name="FlashDebugger.Info.UnknownFilename" xml:space="preserve">
+    <value>&lt;desconocido&gt;</value>
+  </data>
+  <data name="FlashDebugger.Info.WaitingForPlayer" xml:space="preserve">
+    <value>Esperando a que el reproductor Flash se conecte al depurador.</value>
+  </data>
+  <data name="FlashDebugger.Info.WarningNotAllCommandsSupported" xml:space="preserve">
+    <value>ADVERTENCIA: El reproductor Flash que esta utilizando no soporta comandos de depuración.</value>
+  </data>
+  <data name="FlashDebugger.Info.WebBrowserGenericName" xml:space="preserve">
+    <value>Navegador Web</value>
+  </data>
+  <data name="FlashDebugger.Label.Close" xml:space="preserve">
+    <value>Cerrar</value>
+  </data>
+  <data name="FlashDebugger.Label.Continue" xml:space="preserve">
+    <value>&amp;Continuar</value>
+  </data>
+  <data name="FlashDebugger.Label.Copy" xml:space="preserve">
+    <value>C&amp;opiar</value>
+  </data>
+  <data name="FlashDebugger.Label.CopyAll" xml:space="preserve">
+    <value>Copiar &amp;Todo</value>
+  </data>
+  <data name="FlashDebugger.Label.CopyExp" xml:space="preserve">
+    <value>Copiar &amp;Exp</value>
+  </data>
+  <data name="FlashDebugger.Label.CopyValue" xml:space="preserve">
+    <value>Copiar &amp;Valor</value>
+  </data>
+  <data name="FlashDebugger.Label.Current" xml:space="preserve">
+    <value>Línea &amp;Actual</value>
+  </data>
+  <data name="FlashDebugger.Label.Debug" xml:space="preserve">
+    <value>&amp;Depurador</value>
+  </data>
+  <data name="FlashDebugger.Label.DeleteAllBreakpoints" xml:space="preserve">
+    <value>Borrar todos los puntos de Inspección</value>
+  </data>
+  <data name="FlashDebugger.Label.DisableAllBreakpoints" xml:space="preserve">
+    <value>Desactivar los puntos de Inspección</value>
+  </data>
+  <data name="FlashDebugger.Label.Enable" xml:space="preserve">
+    <value>Activo</value>
+  </data>
+  <data name="FlashDebugger.Label.EnableAllBreakpoints" xml:space="preserve">
+    <value>Activar todos los puntos de Inspección</value>
+  </data>
+  <data name="FlashDebugger.Label.Exp" xml:space="preserve">
+    <value>Condición</value>
+  </data>
+  <data name="FlashDebugger.Label.File" xml:space="preserve">
+    <value>Archivo</value>
+  </data>
+  <data name="FlashDebugger.Label.Finish" xml:space="preserve">
+    <value>Paso &amp;Previo</value>
+  </data>
+  <data name="FlashDebugger.Label.Line" xml:space="preserve">
+    <value>Línea</value>
+  </data>
+  <data name="FlashDebugger.Label.Name" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="FlashDebugger.Label.Next" xml:space="preserve">
+    <value>&amp;Paso por Fuera</value>
+  </data>
+  <data name="FlashDebugger.Label.Path" xml:space="preserve">
+    <value>Ruta</value>
+  </data>
+  <data name="FlashDebugger.Label.Pause" xml:space="preserve">
+    <value>&amp;Pausa</value>
+  </data>
+  <data name="FlashDebugger.Label.RunToCursor" xml:space="preserve">
+    <value>Ejecutar hasta la línea del C&amp;ursor</value>
+  </data>
+  <data name="FlashDebugger.Label.Start" xml:space="preserve">
+    <value>&amp;Inicio</value>
+  </data>
+  <data name="FlashDebugger.Label.StartRemoteDebugging" xml:space="preserve">
+    <value>Iniciar sesión remota</value>
+  </data>
+  <data name="FlashDebugger.Label.Step" xml:space="preserve">
+    <value>Paso por &amp;Dentro</value>
+  </data>
+  <data name="FlashDebugger.Label.Stop" xml:space="preserve">
+    <value>D&amp;etener</value>
+  </data>
+  <data name="FlashDebugger.Label.ToggleBreakpoint" xml:space="preserve">
+    <value>Alternar punto de Interrupción</value>
+  </data>
+  <data name="FlashDebugger.Label.ToggleBreakpointEnabled" xml:space="preserve">
+    <value>Punto de interrupción activado</value>
+  </data>
+  <data name="FlashDebugger.Label.Unwatch" xml:space="preserve">
+    <value>Borrar Inspección</value>
+  </data>
+  <data name="FlashDebugger.Label.Value" xml:space="preserve">
+    <value>Valor</value>
+  </data>
+  <data name="FlashDebugger.Label.ViewBreakpointsPanel" xml:space="preserve">
+    <value>Panel de Interrupciones</value>
+  </data>
+  <data name="FlashDebugger.Label.Viewer" xml:space="preserve">
+    <value>&amp;Visor</value>
+  </data>
+  <data name="FlashDebugger.Label.ViewImmediatePanel" xml:space="preserve">
+    <value>Panel de Inmediato</value>
+  </data>
+  <data name="FlashDebugger.Label.ViewLocalVariablesPanel" xml:space="preserve">
+    <value>Panel de Variables Locales</value>
+  </data>
+  <data name="FlashDebugger.Label.ViewStackframePanel" xml:space="preserve">
+    <value>Panel de Stackframe</value>
+  </data>
+  <data name="FlashDebugger.Label.ViewThreadsPanel" xml:space="preserve">
+    <value>Panel de Anidados</value>
+  </data>
+  <data name="FlashDebugger.Label.ViewWatchPanel" xml:space="preserve">
+    <value>Panel de Inspección</value>
+  </data>
+  <data name="FlashDebugger.Label.Watch" xml:space="preserve">
+    <value>Agregar Inspección</value>
+  </data>
+  <data name="FlashDebugger.Label.WordWrap" xml:space="preserve">
+    <value>Ajuste de Línea</value>
+  </data>
+  <data name="FlashDebugger.Title.Breakpoints" xml:space="preserve">
+    <value>Punto de Interrupción</value>
+  </data>
+  <data name="FlashDebugger.Title.CloseProcess" xml:space="preserve">
+    <value>Cerrar Proceso?</value>
+  </data>
+  <data name="FlashDebugger.Title.Immediate" xml:space="preserve">
+    <value>Inmediato</value>
+  </data>
+  <data name="FlashDebugger.Title.LocalVariables" xml:space="preserve">
+    <value>Locales</value>
+  </data>
+  <data name="FlashDebugger.Title.StackTrace" xml:space="preserve">
+    <value>Pila</value>
+  </data>
+  <data name="FlashDebugger.Title.Threads" xml:space="preserve">
+    <value>Anidado</value>
+  </data>
+  <data name="FlashDebugger.Title.Watch" xml:space="preserve">
+    <value>Inpección</value>
+  </data>
 </root>
