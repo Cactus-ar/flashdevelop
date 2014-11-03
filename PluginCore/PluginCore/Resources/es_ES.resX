@@ -1364,7 +1364,7 @@
     <value>Explorador de &amp;Windows</value>
   </data>
   <data name="FlashDevelop.Label.WrapEditorText" xml:space="preserve">
-    <value>Wrap &amp;Editor Text</value>
+    <value>Wrap &amp;Editor de Texto</value>
     <comment>!!!!</comment>
   </data>
   <data name="FlashDevelop.Label.XHTMLDocument" xml:space="preserve">
@@ -1725,5 +1725,430 @@
   </data>
   <data name="FlashDebugger.Title.Watch" xml:space="preserve">
     <value>Inpección</value>
+  </data>
+  <data name="FileExplorer.Description.FilePath" xml:space="preserve">
+    <value>Última ruta de acceso para explorar archivos.</value>
+  </data>
+  <data name="FileExplorer.Description.SortColumn" xml:space="preserve">
+    <value>Columna actual que ha sido ordenada.</value>
+  </data>
+  <data name="FileExplorer.Description.SortOrder" xml:space="preserve">
+    <value>Orden de la columna actual.</value>
+  </data>
+  <data name="FileExplorer.Description.SynchronizeToProject" xml:space="preserve">
+    <value>Sincronizar la vista de archivos con el proyecto actual.</value>
+  </data>
+  <data name="FileExplorer.Header.Files" xml:space="preserve">
+    <value>Archivos</value>
+  </data>
+  <data name="FileExplorer.Header.Modified" xml:space="preserve">
+    <value>Modificado</value>
+  </data>
+  <data name="FileExplorer.Header.Size" xml:space="preserve">
+    <value>Tamaño</value>
+  </data>
+  <data name="FileExplorer.Header.Type" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="FileExplorer.Info.BrowseDescription" xml:space="preserve">
+    <value>Abrir carpeta para explorar su contenido.</value>
+  </data>
+  <data name="FileExplorer.Info.ConfirmDelete" xml:space="preserve">
+    <value>Está seguro de querer borrar los items seleccionados?</value>
+  </data>
+  <data name="FileExplorer.Info.Description" xml:space="preserve">
+    <value>Agregar un panel de explorador a FlashDevelop.</value>
+  </data>
+  <data name="FileExplorer.Info.Kilobytes" xml:space="preserve">
+    <value>KB</value>
+  </data>
+  <data name="FileExplorer.Info.NewFileName" xml:space="preserve">
+    <value>Archivo Nuevo</value>
+  </data>
+  <data name="FileExplorer.Info.NewFolderName" xml:space="preserve">
+    <value>Nueva Carpeta</value>
+  </data>
+  <data name="FileExplorer.Info.PathTrusted" xml:space="preserve">
+    <value>añadidio a los sitios de confianda del Reproductor Flash.</value>
+  </data>
+  <data name="FileExplorer.Label.CommandPromptHere" xml:space="preserve">
+    <value>Línea de &amp;comandos aquí...</value>
+  </data>
+  <data name="FileExplorer.Label.Copy" xml:space="preserve">
+    <value>C&amp;opy</value>
+  </data>
+  <data name="FileExplorer.Label.CreateFileHere" xml:space="preserve">
+    <value>&amp;Crear archivo aquí...</value>
+  </data>
+  <data name="FileExplorer.Label.CreateFolderHere" xml:space="preserve">
+    <value>Crear &amp;carpeta aquí...</value>
+  </data>
+  <data name="FileExplorer.Label.Delete" xml:space="preserve">
+    <value>&amp;Borrar</value>
+  </data>
+  <data name="FileExplorer.Label.Edit" xml:space="preserve">
+    <value>&amp;Editar</value>
+  </data>
+  <data name="FileExplorer.Label.ExploreHere" xml:space="preserve">
+    <value>E&amp;xplorar Aquí...</value>
+  </data>
+  <data name="FileExplorer.Label.FindHere" xml:space="preserve">
+    <value>&amp;buscar y Reemplazar aquí...</value>
+  </data>
+  <data name="FileExplorer.Label.Paste" xml:space="preserve">
+    <value>&amp;Pegar</value>
+  </data>
+  <data name="FileExplorer.Label.RefreshView" xml:space="preserve">
+    <value>&amp;Refrescar Vista</value>
+  </data>
+  <data name="FileExplorer.Label.Rename" xml:space="preserve">
+    <value>Re&amp;nombrar</value>
+  </data>
+  <data name="FileExplorer.Label.Run" xml:space="preserve">
+    <value>&amp;Ejecutar</value>
+  </data>
+  <data name="FileExplorer.Label.ShellMenu" xml:space="preserve">
+    <value>Menú del Shell</value>
+  </data>
+  <data name="FileExplorer.Label.SynchronizeView" xml:space="preserve">
+    <value>&amp;Sincronizar Vista</value>
+  </data>
+  <data name="FileExplorer.Label.TrustHere" xml:space="preserve">
+    <value>Agregar a las &amp;Rutas conocidas</value>
+  </data>
+  <data name="FileExplorer.Label.ViewMenuItem" xml:space="preserve">
+    <value>Explorador de Archivos</value>
+  </data>
+  <data name="FileExplorer.Title.PluginPanel" xml:space="preserve">
+    <value>Archivos</value>
+  </data>
+  <data name="FileExplorer.ToolTip.Browse" xml:space="preserve">
+    <value>Navegar</value>
+  </data>
+  <data name="FileExplorer.ToolTip.Synchronize" xml:space="preserve">
+    <value>Sincronizar</value>
+  </data>
+  <data name="FlashConnect.Description.Commands" xml:space="preserve">
+    <value>Lista de comandos permitidos para ejecutar.</value>
+  </data>
+  <data name="FlashConnect.Description.Enabled" xml:space="preserve">
+    <value>habilita a FlashConnect con el inicio.</value>
+  </data>
+  <data name="FlashConnect.Description.Host" xml:space="preserve">
+    <value>El anfitrión de la conección.</value>
+  </data>
+  <data name="FlashConnect.Description.Port" xml:space="preserve">
+    <value>El puerto de la conección.</value>
+  </data>
+  <data name="FlashConnect.Info.Description" xml:space="preserve">
+    <value>Agrega un socket xml personalizado de seguimiento para FlashDevelop.</value>
+  </data>
+  <data name="FlashConnect.Info.IncorrectPacket" xml:space="preserve">
+    <value>El packet recibido es incorrecto:</value>
+  </data>
+  <data name="FlashConnect.Info.InvalidMessage" xml:space="preserve">
+    <value>El mensaje xml recibido es inválido.</value>
+  </data>
+  <data name="FlashLogViewer.Category.Files" xml:space="preserve">
+    <value>Archivos</value>
+  </data>
+  <data name="FlashLogViewer.Category.Regex" xml:space="preserve">
+    <value>Regex</value>
+  </data>
+  <data name="FlashLogViewer.Description.ColourWarnings" xml:space="preserve">
+    <value>Habilitar el coloreo de errores y advertencias</value>
+  </data>
+  <data name="FlashLogViewer.Description.FlashLogFile" xml:space="preserve">
+    <value>La ruta de acceso hacia el archivo de registro del reproductor Flash.</value>
+  </data>
+  <data name="FlashLogViewer.Description.KeepPopupTopMost" xml:space="preserve">
+    <value>Mantener la ventana emergente siempre visible..</value>
+  </data>
+  <data name="FlashLogViewer.Description.PolicyLogFile" xml:space="preserve">
+    <value>Ruta de acceso hacia el archivo de reglas para el registro del reproductor Flash.</value>
+  </data>
+  <data name="FlashLogViewer.Description.RegexError" xml:space="preserve">
+    <value>Permite configurar las líneas de Error capturadas con  regex.</value>
+  </data>
+  <data name="FlashLogViewer.Description.RegexWarning" xml:space="preserve">
+    <value>Permite configurar las líneas de Advertencia capturadas con regex.</value>
+  </data>
+  <data name="FlashLogViewer.Description.TrackingStartType" xml:space="preserve">
+    <value>Especifica como el archivo de registro se inicia.</value>
+  </data>
+  <data name="FlashLogViewer.Description.UpdateInterval" xml:space="preserve">
+    <value>Especifica con que frecuencia el archivo de registro es monitoreado.</value>
+  </data>
+  <data name="FlashLogViewer.Info.Description" xml:space="preserve">
+    <value>Agregar el panel de opciones de registro del reproductor Flash a FlashDevelop.</value>
+  </data>
+  <data name="FlashLogViewer.Label.ClearLog" xml:space="preserve">
+    <value>&amp;Borrar registros</value>
+  </data>
+  <data name="FlashLogViewer.Label.CopyOutput" xml:space="preserve">
+    <value>Copiar &amp;Salida</value>
+  </data>
+  <data name="FlashLogViewer.Label.Filter" xml:space="preserve">
+    <value>Filtro:</value>
+  </data>
+  <data name="FlashLogViewer.Label.FlashLog" xml:space="preserve">
+    <value>Registro Flash</value>
+  </data>
+  <data name="FlashLogViewer.Label.PolicyLog" xml:space="preserve">
+    <value>Reglas del Registro</value>
+  </data>
+  <data name="FlashLogViewer.Label.View" xml:space="preserve">
+    <value>Visualizar:</value>
+  </data>
+  <data name="FlashLogViewer.Label.ViewMenuItem" xml:space="preserve">
+    <value>Visualizar el Registro de Flash</value>
+  </data>
+  <data name="FlashLogViewer.Label.WrapText" xml:space="preserve">
+    <value>&amp;Ajustar Texto</value>
+  </data>
+  <data name="FlashLogViewer.Title.PluginPanel" xml:space="preserve">
+    <value>Registros</value>
+  </data>
+  <data name="FlashLogViewer.ToolTip.ClearFilterText" xml:space="preserve">
+    <value>Borrar Filtros de Texto</value>
+  </data>
+  <data name="FlashLogViewer.ToolTip.PopupToTopMost" xml:space="preserve">
+    <value>Abrir en Emergente</value>
+  </data>
+  <data name="FlashLogViewer.ToolTip.StartTracking" xml:space="preserve">
+    <value>Iniciar Seguimiento</value>
+  </data>
+  <data name="FlashLogViewer.ToolTip.StopTracking" xml:space="preserve">
+    <value>Detener Seguimiento</value>
+  </data>
+  <data name="FlashViewer.Description.DisableAutoConfig" xml:space="preserve">
+    <value>Desactivar la opción de  auto-configuración para que la asociacion de archivos del SO pueda utilizarse.</value>
+  </data>
+  <data name="FlashViewer.Description.DisplayStyle" xml:space="preserve">
+    <value>Especifica como los archivos de animación se visualizarán con FlashDevelop.</value>
+  </data>
+  <data name="FlashViewer.Description.PlayerPath" xml:space="preserve">
+    <value>Ruta hacia el reproductor Flash externo.</value>
+  </data>
+  <data name="FlashViewer.Info.Description" xml:space="preserve">
+    <value>Permite reproducir con FlashDevelop archivos Flash.</value>
+  </data>
+  <data name="FlashViewer.Info.FlashMissing" xml:space="preserve">
+    <value>No se puede mostrar la animación. Se necesita el reproductor Flash 9 ActiveX para Internet Explorer.</value>
+  </data>
+  <data name="HaXeContext.Description.CompletionMode" xml:space="preserve">
+    <value>El mejor soporte de autocompletar estará dado por el compilador de Haxe y más rápidamente si se usa CompletionServer. Alternativamente FlashDevelop incluye soporte básico para autocompletar en Haxe.</value>
+  </data>
+  <data name="HaXeContext.Description.CompletionServerPort" xml:space="preserve">
+    <value>Define el puerto usado por el compilador Haxe (solo aplicable para el uso de autocompletar con CompletionServer).</value>
+  </data>
+  <data name="HaXeContext.Description.DefaultFlashVersion" xml:space="preserve">
+    <value>Define la versión a usar para el reproductor Flash cuando no es definida en el proyecto.</value>
+  </data>
+  <data name="HaXeContext.Description.DisableCompletionOnDemand" xml:space="preserve">
+    <value>Establecer a Falso. Autocompletar sólo se mostrará en Haxe cuando las combinaciones CTRL-Espacio ó CTRL-Mayús es presionada.</value>
+  </data>
+  <data name="HaXeContext.Description.DisableMixedCompletion" xml:space="preserve">
+    <value>Por defecto, autocompletar para Haxe va a ser suministrado por el compilador y por FlashDevelop simultáneamente.</value>
+  </data>
+  <data name="HaXeContext.Description.ExportHXML" xml:space="preserve">
+    <value>Siempre exportar  a HXML cuando HXPROJ es modificado.</value>
+  </data>
+  <data name="HaXeContext.Description.HaXeCheckParameters" xml:space="preserve">
+    <value>Parámetros para el compilador de Haxe para la revisión de sintaxis.</value>
+  </data>
+  <data name="HaXeContext.Description.HaXePath" xml:space="preserve">
+    <value>Ruta de acceso hacia el compilador Haxe.</value>
+  </data>
+  <data name="HaXeContext.Info.AmbiguousType" xml:space="preserve">
+    <value>Tipo Ambiguo.</value>
+  </data>
+  <data name="HaXeContext.Info.Description" xml:space="preserve">
+    <value>Agregar un contexto de Haxe para el uso con el servido ASCompletion.</value>
+  </data>
+  <data name="HaXeContext.Info.HaXeDone" xml:space="preserve">
+    <value>Haxe ha finalizado.</value>
+  </data>
+  <data name="HaXeContext.Info.HaXeExeError" xml:space="preserve">
+    <value>Haxe.exe can no puede encontrarse.{0}{0}Inicie "haxesetup" en la carpeta donde  Haxe está instalado y reinicie FlashDevelop,{0}o configure la ruta de acceso hacia la carpeta donde está instalado en los parámetros de HaxeContext.</value>
+  </data>
+  <data name="HaXeContext.Info.HaXeRunning" xml:space="preserve">
+    <value>Haxe está corriendo.</value>
+  </data>
+  <data name="HaXeContext.Info.InvalidForQuickBuild" xml:space="preserve">
+    <value>El archivo no es una clase válida de Haxe class o no incluye un comando de construcción @haxe.</value>
+  </data>
+  <data name="HaXeContext.Info.InvalidHaXePath" xml:space="preserve">
+    <value>La ruta de acceso al compilador Haxe no es válida. Por favor, revise las opciones.</value>
+  </data>
+  <data name="HaXeContext.Info.InvalidQuickBuildCommand" xml:space="preserve">
+    <value>Comando QuickBuild inválido.</value>
+  </data>
+  <data name="LayoutManager.Description.CustomLayoutPath" xml:space="preserve">
+    <value>Path to the custom directory that contains the layouts.</value>
+  </data>
+  <data name="LayoutManager.Info.Description" xml:space="preserve">
+    <value>Adds a panel layout manager to FlashDevelop.</value>
+  </data>
+  <data name="LayoutManager.Info.NoLayoutsFound" xml:space="preserve">
+    <value>No saved layouts found.</value>
+  </data>
+  <data name="LayoutManager.Info.OpenFileFilter" xml:space="preserve">
+    <value>FlashDevelop Layouts (*.fdl)|*.fdl</value>
+  </data>
+  <data name="LayoutManager.Label.DeleteLayout" xml:space="preserve">
+    <value>&amp;Delete Layout</value>
+  </data>
+  <data name="LayoutManager.Label.LoadLayout" xml:space="preserve">
+    <value>&amp;Load Layout</value>
+  </data>
+  <data name="LayoutManager.Label.SaveCurrent" xml:space="preserve">
+    <value>&amp;Save Current...</value>
+  </data>
+  <data name="LayoutManager.Label.ShowSettings" xml:space="preserve">
+    <value>S&amp;how Settings...</value>
+  </data>
+  <data name="LayoutManager.Label.ViewMenuItem" xml:space="preserve">
+    <value>Layout Manager</value>
+  </data>
+  <data name="LayoutManager.Title.PluginPanel" xml:space="preserve">
+    <value>Layouts</value>
+  </data>
+  <data name="LoomContext.Description.SDKs" xml:space="preserve">
+    <value>Path to the Loom SDK.</value>
+    <comment>Added after 4.3.0</comment>
+  </data>
+  <data name="LoomContext.Info.Description" xml:space="preserve">
+    <value>Loom context for the ASCompletion engine.</value>
+    <comment>Added after 4.3.0</comment>
+  </data>
+  <data name="LoomContext.Info.InvalidClass" xml:space="preserve">
+    <value>This file is not a valid Loom class.</value>
+    <comment>Added after 4.3.0</comment>
+  </data>
+  <data name="LoomContext.Info.LoomDone" xml:space="preserve">
+    <value>Loom Done</value>
+    <comment>Added after 4.3.0</comment>
+  </data>
+  <data name="LoomContext.Info.LoomRunning" xml:space="preserve">
+    <value>Loom Running</value>
+    <comment>Added after 4.3.0</comment>
+  </data>
+  <data name="MacroManager.Description.AutoRun" xml:space="preserve">
+    <value>Runs the macro automaticly when FlashDevelop starts. If enabled, the menu item will not be shown.</value>
+  </data>
+  <data name="MacroManager.Description.Entries" xml:space="preserve">
+    <value>Individual commands of the macro.</value>
+  </data>
+  <data name="MacroManager.Description.Image" xml:space="preserve">
+    <value>Internal image key of the macro menu item.</value>
+  </data>
+  <data name="MacroManager.Description.Label" xml:space="preserve">
+    <value>Menu label of the macro.</value>
+  </data>
+  <data name="MacroManager.Description.Shortcut" xml:space="preserve">
+    <value>Menu key shortcut of the macro.</value>
+  </data>
+  <data name="MacroManager.Description.ShowInToolbar" xml:space="preserve">
+    <value>Shows the macro in the main toolbar.</value>
+    <comment>Added after 4.5.2</comment>
+  </data>
+  <data name="MacroManager.Description.UserMacros" xml:space="preserve">
+    <value>List of currently available macros.</value>
+  </data>
+  <data name="MacroManager.Group.Macros" xml:space="preserve">
+    <value>Macros</value>
+  </data>
+  <data name="MacroManager.Info.CouldNotRunMacro" xml:space="preserve">
+    <value>Couldn't run the macro. Please check the syntax.</value>
+  </data>
+  <data name="MacroManager.Info.Description" xml:space="preserve">
+    <value>Adds simple macro capacilities to FlashDevelop.</value>
+  </data>
+  <data name="MacroManager.Info.MacroFilter" xml:space="preserve">
+    <value>FlashDevelop Macros (*.fdm)</value>
+  </data>
+  <data name="MacroManager.Info.MacrosTakeEffect" xml:space="preserve">
+    <value>Macros will take effect soon as you edit them successfully.</value>
+  </data>
+  <data name="MacroManager.Info.Untitled" xml:space="preserve">
+    <value>Untitled</value>
+  </data>
+  <data name="MacroManager.Label.Add" xml:space="preserve">
+    <value>&amp;Add</value>
+  </data>
+  <data name="MacroManager.Label.Close" xml:space="preserve">
+    <value>&amp;Close</value>
+  </data>
+  <data name="MacroManager.Label.Delete" xml:space="preserve">
+    <value>&amp;Delete</value>
+  </data>
+  <data name="MacroManager.Label.EditMacros" xml:space="preserve">
+    <value>Edit &amp;Macros...</value>
+  </data>
+  <data name="MacroManager.Label.ExportMacros" xml:space="preserve">
+    <value>&amp;Export Macros...</value>
+  </data>
+  <data name="MacroManager.Label.ImportMacros" xml:space="preserve">
+    <value>&amp;Import Macros...</value>
+  </data>
+  <data name="MacroManager.Label.Macros" xml:space="preserve">
+    <value>&amp;Macros</value>
+  </data>
+  <data name="MacroManager.Title.MacroDialog" xml:space="preserve">
+    <value>Macros</value>
+  </data>
+  <data name="OutputPanel.Description.ShowOnOutput" xml:space="preserve">
+    <value>Always open the panel to show the new output.</value>
+  </data>
+  <data name="OutputPanel.Description.ShowOnProcessEnd" xml:space="preserve">
+    <value>Open the panel after the captured process has finished.</value>
+  </data>
+  <data name="OutputPanel.Description.WrapOutput" xml:space="preserve">
+    <value>Wraps text output.</value>
+  </data>
+  <data name="OutputPanel.Info.Description" xml:space="preserve">
+    <value>Adds a output panel for debug messages to FlashDevelop.</value>
+  </data>
+  <data name="OutputPanel.Label.ClearOutput" xml:space="preserve">
+    <value>&amp;Clear Output</value>
+  </data>
+  <data name="OutputPanel.Label.ClearSearchText" xml:space="preserve">
+    <value>Clear Search Text</value>
+  </data>
+  <data name="OutputPanel.Label.CopyOutput" xml:space="preserve">
+    <value>Copy &amp;Output</value>
+  </data>
+  <data name="OutputPanel.Label.SearchInvitation" xml:space="preserve">
+    <value>Search...</value>
+  </data>
+  <data name="OutputPanel.Label.ViewMenuItem" xml:space="preserve">
+    <value>Output Panel</value>
+  </data>
+  <data name="OutputPanel.Label.WrapText" xml:space="preserve">
+    <value>&amp;Wrap Text</value>
+  </data>
+  <data name="OutputPanel.Title.PluginPanel" xml:space="preserve">
+    <value>Output</value>
+  </data>
+  <data name="OutputPanel.ToolTip.StartScrolling" xml:space="preserve">
+    <value>Start Scrolling</value>
+    <comment>Added after 4.5.2</comment>
+  </data>
+  <data name="OutputPanel.ToolTip.StopScrolling" xml:space="preserve">
+    <value>Stop Scrolling</value>
+    <comment>Added after 4.5.2</comment>
+  </data>
+  <data name="PHPContext.Description.IntrinsicDefinitions" xml:space="preserve">
+    <value>Path to language intrinsic definitions for the code completion.</value>
+  </data>
+  <data name="PHPContext.Info.Description" xml:space="preserve">
+    <value>Adds a PHP context for the ASCompletion engine.</value>
+  </data>
+  <data name="PHPContext.Info.PHPDone" xml:space="preserve">
+    <value>PHP Done</value>
+  </data>
+  <data name="PHPContext.Info.PHPRunning" xml:space="preserve">
+    <value>PHP Running</value>
   </data>
 </root>
